@@ -4,7 +4,7 @@
  * Description:       Create custom order status as per your need
  * Author:            CyberCraft
  * Author URI:
- * Version:           1.0
+ * Version:           1.0.1
  * Text Domain:       woocos
  * Domain Path:       /languages/
  * License:           GPLv2 or later (license.txt)
